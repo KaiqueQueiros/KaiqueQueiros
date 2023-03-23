@@ -8,7 +8,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquequeiros&layout=compact&hide_border=true&title_color=000FFF&text_color=000FFF&bg_color=000000" />
 </div>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Max-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg%22%3E
+  <img align="center" alt="Max-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg%22%3E
+  <img align="center" alt="Max-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
+  <img align="center" alt="Max-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg%22%3E
+  <img align="center" alt="Max-linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg%22%3E
 
 
  ##
