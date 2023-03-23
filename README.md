@@ -10,9 +10,9 @@
   
   ##
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" style="max-width: 100%;">
 
-<div style="display: inline_block"><br>
+<div style="display: inline_center"><br>
  
 
   ##
