@@ -12,7 +12,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1030" style="max-width: 100%;">
 
-<div style="display: inline_center"><br>
+<div style="display: content_flex"><br>
  
 
   ##
